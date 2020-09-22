@@ -10,7 +10,7 @@ My data journalism work at the AP focused on data analysis and visualization. I 
 * [Small businesses in college towns struggle without students](https://apnews.com/1583bc741a22867b85807cc8f18552e9)
 
 ### Big Local News
-I cut my data journalism teeth with Stanford's BLN team. I didn't expect to report explicitly on disasters, but sometimes that's just how the :cookie: crumbles.
+I cut my data journalism teeth with [BLN](https://biglocalnews.org/#/about). I didn't expect to report explicitly on disasters, but sometimes that's just how the :cookie: crumbles.
 * [A comparison of four major COVID-19 data sources](https://source.opennews.org/articles/comparison-four-major-covid-19-data-sources/)
 * [Wildland development escalates California fire costs](https://www.kqed.org/news/11713393/wildland-development-escalates-california-fire-costs)
 
