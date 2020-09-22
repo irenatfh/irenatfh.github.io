@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-Hey there, I'm Irena. Currently, I work at [Planet Money](https://www.npr.org/sections/money/). I like analyzing data and telling stories &mdash and I *especially* enjoy combining the two. I've had the privilege of doing really fun stuff with really great teams, and here are some highlights:
+Hey there, I'm Irena. Currently, I work at [Planet Money](https://www.npr.org/sections/money/). I like analyzing data and telling stories, and over the years I've had the privilege of doing really fun stuff with really great teams. Here are some highlights:
 
 ### The Associated Press
 My data journalism work at the AP focused on data analysis and visualization. I learned a ton about data reporting for a news wire, and the importance of listening to good :musical_note::notes: while coding.
