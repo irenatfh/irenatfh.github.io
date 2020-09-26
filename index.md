@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-Hey there, I'm Irena. I'm a mix of data journalist and narrative storyteller (fun fact: I used to be an [electrical engineer](https://scholar.google.com/citations?user=FXiSi-4AAAAJ&hl=en) :electric_plug:), and currently I'm interning at [Planet Money](https://www.npr.org/sections/money/). I've had the privilege of working with some really great teams, and here are some highlights:
+Hey there, I'm Irena. I'm a mix of data journalist and narrative storyteller (fun fact: I used to be an [electrical engineer](https://scholar.google.com/citations?user=FXiSi-4AAAAJ&hl=en) :electric_plug:), and currently I'm interning at [Planet Money](https://www.npr.org/sections/money/). I've had the privilege of working with some really great teams — here are some highlights:
 
 ### The Associated Press
 My data journalism work at the AP was centered around analysis and data visualization. I learned a ton about data reporting for a news wire, and the importance of listening to good :musical_note::notes: while coding.
