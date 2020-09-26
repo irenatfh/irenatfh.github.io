@@ -20,4 +20,4 @@ My first newsroom experience was [writing features](https://www.dallasnews.com/a
 * [The story of a lost painting, its sudden reappearance and the elusive Oak Cliff artist behind it](https://www.dallasnews.com/arts-entertainment/visual-arts/2019/09/25/story-lost-painting-sudden-reappearance-elusive-oak-cliff-artist-behind/)
 * [I'm not alone in my strange hunger: How 'The Farewell' reflects food and the Chinese-American family](https://www.dallasnews.com/arts-entertainment/2019/08/09/i-m-not-alone-in-my-strange-hunger-how-the-farewell-reflects-food-and-the-chinese-american-family/)
 
-:point_left: *I'm looking for full-time opportunities, so if you think my background is a good fit for your team, please get in touch!*
+:email: *I'm looking for full-time opportunities, so if you think my background is a good fit for your team, please get in touch!*
