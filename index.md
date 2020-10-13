@@ -4,8 +4,9 @@ layout: default
 Hey there, I'm Irena. I'm a mix of data journalist, narrative storyteller and science communicator (or total geek, because I used to be an [electrical engineer](https://scholar.google.com/citations?user=FXiSi-4AAAAJ&hl=en) :electric_plug:). Currently, I crunch numbers and write snarky tweets for [Planet Money](https://www.npr.org/sections/money/). I've had the privilege of working with some really great teams — here are some highlights:
 
 ### The Associated Press
-My data journalism work at the AP was centered around analysis and data visualization. I learned a ton about data reporting for a news wire, and the importance of listening to good :musical_note::notes: while coding.
+My data journalism work at the AP centered on analysis and data visualization, and included a bit of science communication. I learned a ton about data reporting for a news wire, and the importance of listening to good :musical_note::notes: while coding.
 * [Infection rates soar in college towns as students return](https://apnews.com/b62eacec9bd3fff89eeab1a8de72f819)
+* [America’s Medical Supply Crisis](https://globalreportingcentre.org/medical-supply-crisis/)
 * [Scarcity of key material squeezes medical mask manufacturing](https://apnews.com/02a0542e8a05176bd5d79757134bc277)
 * [Small businesses in college towns struggle without students](https://apnews.com/1583bc741a22867b85807cc8f18552e9)
 
