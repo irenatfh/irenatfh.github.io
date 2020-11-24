@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-Hey there, I'm Irena. I'm a mix of data journalist, narrative storyteller and science communicator (or total geek, because I used to be an [electrical engineer](https://scholar.google.com/citations?user=FXiSi-4AAAAJ&hl=en) :electric_plug:). Currently, I crunch numbers and write snarky tweets for [Planet Money](https://www.npr.org/sections/money/). I've had the privilege of working with some really great teams — here are some highlights:
+Hey there, I'm Irena. I'm a mix of data journalist, narrative storyteller and science communicator (or total geek, because I used to be an [electrical engineer](https://scholar.google.com/citations?user=FXiSi-4AAAAJ&hl=en) :electric_plug:). Currently, I crunch numbers, help produce episodes and write what I believe are pret-ty fun tweets for [Planet Money](https://www.npr.org/sections/money/). I've had the privilege of working with some really great teams — here are some highlights:
 
 ### The Associated Press
 My data journalism work at the AP centered on analysis and data visualization, and included a bit of science communication. I learned a ton about data reporting for a news wire, and the importance of listening to good :musical_note::notes: while coding.
