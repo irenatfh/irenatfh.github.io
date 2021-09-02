@@ -1,7 +1,11 @@
 ---
 layout: default
 ---
-Hey there, I'm Irena! I used to be an [electrical engineer](https://scholar.google.com/citations?user=FXiSi-4AAAAJ&hl=en) :electric_plug: and now I'm a data reporter at [ProPublica](https://www.propublica.org/). In my professional wanderings, I've had the privilege of working with some really great teams:
+Hey there, I'm Irena! I used to be an [electrical engineer](https://scholar.google.com/citations?user=FXiSi-4AAAAJ&hl=en) :electric_plug: and now I'm a data reporter at [ProPublica](https://www.propublica.org/).
+
+
+## Newsroom experience
+In my professional wanderings, I've had the privilege of working with some really great teams.
 
 ### Planet Money
 Podcasts are what lured me into journalism in the first place, so getting to work with the [Planet Money](https://www.npr.org/sections/money/) team was a dream come true. There, I learned a ton about audio storytelling, economics and creating that distinctive NPR-quality sound in ProTools. I also produced [graphics](https://www.npr.org/sections/money/2020/10/27/927842540/the-dark-side-of-the-recovery-revealed-in-big-data) for the newsletter, crunched numbers for an [episode](https://www.npr.org/2020/10/09/922424987/political-ad-nauseam), reviewed a [book](https://view.nl.npr.org/?qs=9b29184b458531d4aca9f29bb871f37f29274c65186925a3d76fc2ce5ffb83ffc5b8a2922094ee97489ae9646c1c99a31822d2edf230f576356aa45f68f8ea49ccb645c6cf1706121f98cd55e7bbbc55), wrote some pret-ty quality [social](https://twitter.com/planetmoney/status/1337423710592978944?s=20) [media](https://twitter.com/planetmoney/status/1339611427003363329?s=20) [posts](https://twitter.com/planetmoney/status/1342460338726445056?s=20) and tried my hand at explaining economics via TikTok [videos](https://www.tiktok.com/@planetmoney/video/6904685462078770438) ([twice](https://www.tiktok.com/@planetmoney/video/6917675625725644038)).
@@ -27,3 +31,8 @@ My first newsroom experience was [writing features](https://www.dallasnews.com/a
 ### Freelance
 I also occasionally do freelance work.
 * [STAT: The PPE crisis didn’t go away](https://www.statnews.com/2020/12/01/the-ppe-crisis-didnt-go-away-across-the-u-s-grassroots-supply-networks-are-trying-to-fill-the-void/)
+
+## Mentorship
+I care deeply about teaching and creating encouraging spaces for professional growth. I've been fortunate to work with some amazing professional affinity groups.
+* [AAJA Voices](https://voices.aaja.org/): In 2021, I served as the data and graphics editor on an investigation into [lack of diversity in college newsroom leadership](https://voices.aaja.org/index/2021/8/26/few-black-and-hispanic-students-are-editors-of-top-college-newspapers-survey-finds).
+* [The Chips Quinn Scholars Program for Diversity in Journalism](https://www.freedomforuminstitute.org/initiatives/chips-quinn-scholars-program-for-diversity-in-journalism/)
