@@ -33,6 +33,6 @@ I also occasionally do freelance work.
 * [STAT: The PPE crisis didn’t go away](https://www.statnews.com/2020/12/01/the-ppe-crisis-didnt-go-away-across-the-u-s-grassroots-supply-networks-are-trying-to-fill-the-void/)
 
 ## Mentorship
-I care deeply about teaching and creating encouraging spaces for professional growth. I've been fortunate to work with some amazing professional affinity groups.
-* [AAJA Voices](https://voices.aaja.org/): In 2021, I served as the data and graphics editor on an investigation into the [lack of diversity in college newsroom leadership](https://voices.aaja.org/index/2021/8/26/few-black-and-hispanic-students-are-editors-of-top-college-newspapers-survey-finds).
-* [The Chips Quinn Scholars Program for Diversity in Journalism](https://www.freedomforuminstitute.org/initiatives/chips-quinn-scholars-program-for-diversity-in-journalism/)
+I care deeply about teaching, and love working with aspiring journalists through student training programs.
+* [AAJA Voices](https://voices.aaja.org/), data and graphics editor: [Voices Investigation: Few Black, Latinx students are editors of top college newspapers](https://voices.aaja.org/index/2021/8/26/few-black-and-hispanic-students-are-editors-of-top-college-newspapers-survey-finds)
+* [The Chips Quinn Scholars Program for Diversity in Journalism](https://www.freedomforuminstitute.org/initiatives/chips-quinn-scholars-program-for-diversity-in-journalism/), mentor
