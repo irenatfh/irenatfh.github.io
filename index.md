@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-Hey there, I'm Irena! I used to be an [electrical engineer](https://scholar.google.com/citations?user=FXiSi-4AAAAJ&hl=en) :electric_plug: and now I'm a data reporter at [ProPublica](https://www.propublica.org/).
+Hey there, I'm Irena! I used to be an [electrical engineer](https://scholar.google.com/citations?user=FXiSi-4AAAAJ&hl=en) :electric_plug: and now I'm a data reporter at [ProPublica](https://www.propublica.org/people/irena-hwang).
 
 
 ## Newsroom experience
