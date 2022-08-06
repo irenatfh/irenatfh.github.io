@@ -22,7 +22,7 @@ I cut my data journalism teeth with [BLN](https://biglocalnews.org/#/about). I d
 * [Wildland development escalates California fire costs](https://www.kqed.org/news/11713393/wildland-development-escalates-california-fire-costs)
 
 ### The Dallas Morning News
-My first newsroom experience was [writing features]([https://www.dallasnews.com/author/JMUM6E4O4KTZ3FCQLEGK5XLHXU/](https://www.dallasnews.com/author/irena-fischer-hwang/) for the Arts and Entertainment desk at the Morning News. Outside the newsroom, I developed a taste for Tex-Mex and :taco: and got used to things like armadillo roadkill and Topo Chico everywhere.
+My first newsroom experience was [writing features](https://www.dallasnews.com/author/irena-fischer-hwang/) for the Arts and Entertainment desk at the Morning News. Outside the newsroom, I developed a taste for Tex-Mex and :taco: and got used to things like armadillo roadkill and Topo Chico everywhere.
 * [How two Vietnamese immigrants found their American Dream in fried chicken](https://www.dallasnews.com/food/2019/10/15/how-two-vietnamese-immigrants-found-their-american-dream-in-fried-chicken/)
 * [The story of a lost painting, its sudden reappearance and the elusive Oak Cliff artist behind it](https://www.dallasnews.com/arts-entertainment/visual-arts/2019/09/25/story-lost-painting-sudden-reappearance-elusive-oak-cliff-artist-behind/)
 * [I'm not alone in my strange hunger: How 'The Farewell' reflects food and the Chinese-American family](https://www.dallasnews.com/arts-entertainment/2019/08/09/i-m-not-alone-in-my-strange-hunger-how-the-farewell-reflects-food-and-the-chinese-american-family/)
@@ -33,5 +33,5 @@ I also occasionally do freelance work.
 
 ## Mentorship
 I care deeply about teaching, and love working with aspiring journalists through student training programs.
-* [AAJA Voices](https://voices.aaja.org/), data and graphics editor: [Voices Investigation: Few Black, Latinx students are editors of top college newspapers](https://voices.aaja.org/index/2021/8/26/few-black-and-hispanic-students-are-editors-of-top-college-newspapers-survey-finds)
+* [AAJA Voices](https://voices.aaja.org/), data and graphics editor: [Voices Investigation: Journalism’s top awards lack diverse judges](https://aajavoices.org/losangeles2022/voices-investigation-journalisms-top-awards-lack-diverse-judges/), [Voices Investigation: Few Black, Latinx students are editors of top college newspapers](https://voices.aaja.org/index/2021/8/26/few-black-and-hispanic-students-are-editors-of-top-college-newspapers-survey-finds)
 * [The Chips Quinn Scholars Program for Diversity in Journalism](https://www.freedomforuminstitute.org/initiatives/chips-quinn-scholars-program-for-diversity-in-journalism/), mentor
