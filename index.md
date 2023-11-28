@@ -1,35 +1,8 @@
 ---
 layout: default
 ---
-Hey there, I'm Irena! I used to be an [electrical engineer](https://scholar.google.com/citations?user=FXiSi-4AAAAJ&hl=en) :electric_plug: and now I'm a data reporter at [ProPublica](https://www.propublica.org/people/irena-hwang). I use she/they pronouns.
+Hey there, I'm Irena! I'm a data reporter at [ProPublica](https://www.propublica.org/people/irena-hwang), and I used to do research in [electrical engineering](https://scholar.google.com/citations?user=FXiSi-4AAAAJ&hl=en) _(which is why I sometimes cry from nostalgia in MRI machines and have vivid dreams about teaching the complex conjugate root theorem)_. These days, I code up [data analysis pipelines](https://www.propublica.org/article/pandemic-outbreak-guinea-forest-propublica-analysis), write explanatory methodology columns ([1](https://www.propublica.org/article/salmon-hatcheries-pnw-fish-data), [2](https://www.propublica.org/article/how-propublica-used-genomic-sequencing-data-to-track-an-ongoing-salmonella-outbreak)), and design informational graphics ([3](https://www.propublica.org/article/ebola-spillover-machine-learning-methodology-nigeria), [4](https://www.propublica.org/article/salmon-hatcheries-government-climate-change)) for accountability reporting.
 
-## Newsroom experience
-These days, I'm focusing on data analysis for accountability reporting. I've had the privilege of working with really great teams along the way, and here's where else you might have seen my byline 👇
+I've had the privilege of working with really great teams along the way, including the folks at [Planet Money](https://www.tiktok.com/@planetmoney/video/6917675625725644038), [The Associated Press](https://apnews.com/b62eacec9bd3fff89eeab1a8de72f819), [Big Local News](https://www.kqed.org/news/11713393/wildland-development-escalates-california-fire-costs), and [The Dallas Morning News](https://www.dallasnews.com/author/irena-fischer-hwang/).
 
-### Planet Money
-Podcasts are what lured me into journalism in the first place, so getting to work with the [Planet Money](https://www.npr.org/sections/money/) team was a dream come true :money_with_wings:. There, I learned a ton about audio storytelling, economics and creating that distinctive NPR-quality sound in ProTools. I also produced [graphics](https://www.npr.org/sections/money/2020/10/27/927842540/the-dark-side-of-the-recovery-revealed-in-big-data) for the newsletter, crunched numbers for an [episode](https://www.npr.org/2020/10/09/922424987/political-ad-nauseam), reviewed a [book](https://view.nl.npr.org/?qs=9b29184b458531d4aca9f29bb871f37f29274c65186925a3d76fc2ce5ffb83ffc5b8a2922094ee97489ae9646c1c99a31822d2edf230f576356aa45f68f8ea49ccb645c6cf1706121f98cd55e7bbbc55), wrote some pret-ty quality [social](https://twitter.com/planetmoney/status/1337423710592978944?s=20) [media](https://twitter.com/planetmoney/status/1339611427003363329?s=20) [posts](https://twitter.com/planetmoney/status/1342460338726445056?s=20) and tried my hand at explaining economics via TikTok [videos](https://www.tiktok.com/@planetmoney/video/6904685462078770438) ([twice](https://www.tiktok.com/@planetmoney/video/6917675625725644038)).
-
-### The Associated Press
-My data journalism work at the AP centered on analysis and data visualization, and included a bit of science communication. I learned a ton about data reporting for a news wire and the importance of listening to good :musical_note::notes: while coding.
-* [Infection rates soar in college towns as students return](https://apnews.com/b62eacec9bd3fff89eeab1a8de72f819)
-* [America’s Medical Supply Crisis](https://globalreportingcentre.org/medical-supply-crisis/)
-* [Scarcity of key material squeezes medical mask manufacturing](https://apnews.com/02a0542e8a05176bd5d79757134bc277)
-* [Small businesses in college towns struggle without students](https://apnews.com/1583bc741a22867b85807cc8f18552e9)
-
-### Big Local News
-I cut my data journalism teeth with [BLN](https://biglocalnews.org/#/about). I didn't expect to report explicitly on disasters, but sometimes that's just how the :cookie: crumbles.
-* [A comparison of four major COVID-19 data sources](https://source.opennews.org/articles/comparison-four-major-covid-19-data-sources/)
-* [Wildland development escalates California fire costs](https://www.kqed.org/news/11713393/wildland-development-escalates-california-fire-costs)
-
-### The Dallas Morning News
-My first newsroom experience was [writing features](https://www.dallasnews.com/author/irena-fischer-hwang/) for the Arts and Entertainment desk at the Morning News. Outside the newsroom, I developed a taste for Tex-Mex and :taco: and got used to things like armadillo roadkill and Topo Chico everywhere.
-* [How two Vietnamese immigrants found their American Dream in fried chicken](https://www.dallasnews.com/food/2019/10/15/how-two-vietnamese-immigrants-found-their-american-dream-in-fried-chicken/)
-* [The story of a lost painting, its sudden reappearance and the elusive Oak Cliff artist behind it](https://www.dallasnews.com/arts-entertainment/visual-arts/2019/09/25/story-lost-painting-sudden-reappearance-elusive-oak-cliff-artist-behind/)
-* [I'm not alone in my strange hunger: How 'The Farewell' reflects food and the Chinese-American family](https://www.dallasnews.com/arts-entertainment/2019/08/09/i-m-not-alone-in-my-strange-hunger-how-the-farewell-reflects-food-and-the-chinese-american-family/)
-
-## Mentorship
-I care deeply about teaching, and love working with aspiring journalists through student training programs.
-* [AAJA Voices](https://voices.aaja.org/), data and graphics editor: [Voices Investigation: Journalism’s top awards lack diverse judges](https://aajavoices.org/losangeles2022/voices-investigation-journalisms-top-awards-lack-diverse-judges/), [Voices Investigation: Few Black, Latinx students are editors of top college newspapers](https://voices.aaja.org/index/2021/8/26/few-black-and-hispanic-students-are-editors-of-top-college-newspapers-survey-finds)
-* [The Chips Quinn Scholars Program for Diversity in Journalism](https://www.freedomforuminstitute.org/initiatives/chips-quinn-scholars-program-for-diversity-in-journalism/), mentor
-
-_I'm happy to do informational chats with students, particularly if you are a doctoral candidate in a STEM field. Just send me an email!_
+I also love working with aspiring journalists through student training programs. I've worked with the [AAJA Voices](https://voices.aaja.org/) ([5](https://aajavoices.org/losangeles2022/voices-investigation-journalisms-top-awards-lack-diverse-judges/), [6](https://voices.aaja.org/index/2021/8/26/few-black-and-hispanic-students-are-editors-of-top-college-newspapers-survey-finds)) program and the [Chips Quinn Scholars Program for Diversity in Journalism](https://www.freedomforuminstitute.org/initiatives/chips-quinn-scholars-program-for-diversity-in-journalism/). My path to journalism was very nonlinear, so I'm happy to do informational chats with students — particularly doctoral candidates in STEM fields. Just send me an email to find a time to talk!
